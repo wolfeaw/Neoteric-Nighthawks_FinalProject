@@ -6,7 +6,7 @@
 # Course: IS 3050
 # Semester/Year: Semester 1, Year 4
 # Brief Description: This project completes a leetcode problem and collaborates with other team members to do the same
-# Citations: n/a
+# Citations: https://leetcode.com/problems/reducing-dishes/description/
 # Anything else that's relevant: n/a
 */
 using System;
